@@ -15,3 +15,13 @@
   border-top: 1px solid #333;
   width: 80%;
 }
+
+.recipe-list {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.recipe-list.li {
+  width: 20%;
+}
